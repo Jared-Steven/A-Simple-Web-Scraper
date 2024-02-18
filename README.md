@@ -1,0 +1,1 @@
+In this project, I’ve made a simple web scraper to scrape the quotes and tags related to the quotes from the website named quotes.toscrape.com, With the help of python’s web scraping library Beautiful Soup(bs4).
